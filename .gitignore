@@ -1,0 +1,15 @@
+.DS_Store
+*.db
+*.sqlite*
+*.log
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.prproj
+*.aep
+node_modules/
+.venv*/
+__pycache__/
+.next/
+tmp/

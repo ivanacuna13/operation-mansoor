@@ -1,0 +1,1 @@
+r001 — Fresh native Premiere project, 11 editable original-video selections and 22 linked mono audio clip items, 97.564 seconds. Imported from documented FCP XML; no completed project reused. Export rendered in Premiere at 1080x1920, 29.97 fps. Draft only: all blockers and measurements in 08_qc/final-qc-report.json. No captions, headline, music or final picture-lock claim.

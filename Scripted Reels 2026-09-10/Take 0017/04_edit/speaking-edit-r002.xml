@@ -1,0 +1,675 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xmeml version="5">
+  <sequence>
+    <name>Mansoor - Take 0017 - Speaking Edit r002</name>
+    <duration>1781</duration>
+    <rate>
+      <timebase>30</timebase>
+      <ntsc>FALSE</ntsc>
+    </rate>
+    <media>
+      <video>
+        <format>
+          <samplecharacteristics>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <width>720</width>
+            <height>1280</height>
+            <pixelaspectratio>square</pixelaspectratio>
+            <fielddominance>none</fielddominance>
+          </samplecharacteristics>
+        </format>
+        <track>
+          <clipitem id="video-1-0">
+            <name>Read 2</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>0</start>
+            <end>237</end>
+            <in>2427</in>
+            <out>2664</out>
+            <file id="source">
+              <name>cloud-edit-proxy-720p.mp4</name>
+              <pathurl>file:///Users/ivanclawd/Operation%20Mansoor/Scripted%20Reels%202026-09-10/Take%200017/02_proxies/cloud-edit-proxy-720p.mp4</pathurl>
+              <rate>
+                <timebase>30</timebase>
+                <ntsc>FALSE</ntsc>
+              </rate>
+              <duration>14477</duration>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <rate>
+                      <timebase>30</timebase>
+                      <ntsc>FALSE</ntsc>
+                    </rate>
+                    <width>720</width>
+                    <height>1280</height>
+                  </samplecharacteristics>
+                </video>
+                <audio>
+                  <channelcount>2</channelcount>
+                  <samplecharacteristics>
+                    <samplerate>48000</samplerate>
+                    <depth>16</depth>
+                  </samplecharacteristics>
+                </audio>
+              </media>
+            </file>
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-1">
+            <name>Read 3</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>237</start>
+            <end>518</end>
+            <in>3584</in>
+            <out>3865</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-2">
+            <name>Read 3</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>518</start>
+            <end>594</end>
+            <in>3903</in>
+            <out>3979</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-3">
+            <name>Read 4</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>594</start>
+            <end>802</end>
+            <in>5573</in>
+            <out>5781</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-4">
+            <name>Read 5</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>802</start>
+            <end>1044</end>
+            <in>8364</in>
+            <out>8606</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-5">
+            <name>Read 6</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1044</start>
+            <end>1093</end>
+            <in>8986</in>
+            <out>9035</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-6">
+            <name>Read 6</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1093</start>
+            <end>1132</end>
+            <in>9043</in>
+            <out>9082</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-7">
+            <name>Read 7</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1132</start>
+            <end>1215</end>
+            <in>10172</in>
+            <out>10255</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-8">
+            <name>Read 8</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1215</start>
+            <end>1344</end>
+            <in>10688</in>
+            <out>10817</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-9">
+            <name>Read 9</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1344</start>
+            <end>1461</end>
+            <in>11549</in>
+            <out>11666</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-10">
+            <name>Read 10</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1461</start>
+            <end>1549</end>
+            <in>11902</in>
+            <out>11990</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="video-1-11">
+            <name>Read 11</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1549</start>
+            <end>1781</end>
+            <in>13815</in>
+            <out>14047</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+        </track>
+      </video>
+      <audio>
+        <numOutputChannels>2</numOutputChannels>
+        <track>
+          <clipitem id="audio-1-0">
+            <name>Read 2</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>0</start>
+            <end>237</end>
+            <in>2427</in>
+            <out>2664</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-1">
+            <name>Read 3</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>237</start>
+            <end>518</end>
+            <in>3584</in>
+            <out>3865</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-2">
+            <name>Read 3</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>518</start>
+            <end>594</end>
+            <in>3903</in>
+            <out>3979</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-3">
+            <name>Read 4</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>594</start>
+            <end>802</end>
+            <in>5573</in>
+            <out>5781</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-4">
+            <name>Read 5</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>802</start>
+            <end>1044</end>
+            <in>8364</in>
+            <out>8606</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-5">
+            <name>Read 6</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1044</start>
+            <end>1093</end>
+            <in>8986</in>
+            <out>9035</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-6">
+            <name>Read 6</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1093</start>
+            <end>1132</end>
+            <in>9043</in>
+            <out>9082</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-7">
+            <name>Read 7</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1132</start>
+            <end>1215</end>
+            <in>10172</in>
+            <out>10255</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-8">
+            <name>Read 8</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1215</start>
+            <end>1344</end>
+            <in>10688</in>
+            <out>10817</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-9">
+            <name>Read 9</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1344</start>
+            <end>1461</end>
+            <in>11549</in>
+            <out>11666</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-10">
+            <name>Read 10</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1461</start>
+            <end>1549</end>
+            <in>11902</in>
+            <out>11990</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-1-11">
+            <name>Read 11</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1549</start>
+            <end>1781</end>
+            <in>13815</in>
+            <out>14047</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+          </clipitem>
+        </track>
+        <track>
+          <clipitem id="audio-2-0">
+            <name>Read 2</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>0</start>
+            <end>237</end>
+            <in>2427</in>
+            <out>2664</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-1">
+            <name>Read 3</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>237</start>
+            <end>518</end>
+            <in>3584</in>
+            <out>3865</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-2">
+            <name>Read 3</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>518</start>
+            <end>594</end>
+            <in>3903</in>
+            <out>3979</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-3">
+            <name>Read 4</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>594</start>
+            <end>802</end>
+            <in>5573</in>
+            <out>5781</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-4">
+            <name>Read 5</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>802</start>
+            <end>1044</end>
+            <in>8364</in>
+            <out>8606</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-5">
+            <name>Read 6</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1044</start>
+            <end>1093</end>
+            <in>8986</in>
+            <out>9035</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-6">
+            <name>Read 6</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1093</start>
+            <end>1132</end>
+            <in>9043</in>
+            <out>9082</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-7">
+            <name>Read 7</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1132</start>
+            <end>1215</end>
+            <in>10172</in>
+            <out>10255</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-8">
+            <name>Read 8</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1215</start>
+            <end>1344</end>
+            <in>10688</in>
+            <out>10817</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-9">
+            <name>Read 9</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1344</start>
+            <end>1461</end>
+            <in>11549</in>
+            <out>11666</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-10">
+            <name>Read 10</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1461</start>
+            <end>1549</end>
+            <in>11902</in>
+            <out>11990</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+          <clipitem id="audio-2-11">
+            <name>Read 11</name>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <duration>14477</duration>
+            <start>1549</start>
+            <end>1781</end>
+            <in>13815</in>
+            <out>14047</out>
+            <file id="source" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+          </clipitem>
+        </track>
+      </audio>
+    </media>
+  </sequence>
+</xmeml>
