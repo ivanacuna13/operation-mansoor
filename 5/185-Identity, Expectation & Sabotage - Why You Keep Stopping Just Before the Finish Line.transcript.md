@@ -1,0 +1,949 @@
+# 185-Identity, Expectation & Sabotage - Why You Keep Stopping Just Before the Finish Line
+
+- **Title:** 185-Identity, Expectation & Sabotage - Why You Keep Stopping Just Before the Finish Line
+- **Source filename:** 185-Identity, Expectation & Sabotage - Why You Keep Stopping Just Before the Finish Line.mp4
+- **Duration:** 1:05:56
+- **STT engine:** onnx-asr / NVIDIA Parakeet TDT 0.6B v2 (int8) + Silero VAD
+- **Date:** 2026-08-26
+
+## Transcript
+
+[00:00:00 – 00:00:01] Dinwa, how are you?
+[00:00:01 – 00:00:03] I'm good, you excited for the uh retreat?
+[00:00:04 – 00:00:05] Uh I am. Yeah, it'll be good.
+[00:00:06 – 00:00:07] Hey, we're coming up. Um
+[00:00:08 – 00:00:11] Let's see, I'm gonna go everyone in platinum one moment, tell everyone to join.
+[00:00:12 – 00:00:14] Otherwise they can hop in later.
+[00:00:14 – 00:00:15] How you feeling?
+[00:00:18 – 00:00:19] Uh good. Now I feel good.
+[00:00:31 – 00:00:31] I'm just on their own.
+[00:00:33 – 00:00:36] Hey guys, starting now.
+[00:00:39 – 00:00:39] Um
+[00:00:40 – 00:00:41] Awesome.
+[00:00:41 – 00:00:42] You've been practicing anything?
+[00:00:44 – 00:00:49] I have not yet. I want to go out and do more, but I've not.
+[00:00:50 – 00:00:58] I was hanging out with Z the other night. We were going to New York for a little bit, but that was fun. Yeah, he told me you guys are in New York together.
+[00:00:58 – 00:01:01] Uh oh, is it fun? You guys you guys doing some damage?
+[00:01:02 – 00:01:07] I don't know about damage, but it was good. It was just kind of good getting out there, you know, doing things you don't want to do. But
+[00:01:07 – 00:01:08] Awesome.
+[00:01:08 – 00:01:09] Um
+[00:01:10 – 00:01:14] Perfect. J Abdullah, can you take these uh hard drives away from the zoo from here?
+[00:01:14 – 00:01:21] How hot is the nice hot hot? Hot hot. Alright. It's too hot for me then.
+[00:01:21 – 00:01:22] It's probably on that side.
+[00:01:23 – 00:01:24] Yeah.
+[00:01:24 – 00:01:26] Awesome. Hey Steve, how you doing?
+[00:01:26 – 00:01:27] Good morning. Doing good.
+[00:01:28 – 00:01:29] Awesome.
+[00:01:29 – 00:01:30] So
+[00:01:31 – 00:01:40] I guess everyone else will hop on recordings or whatever it takes. But, you know, I was talking to Kishan about the retreat. You know, he said he's pretty excited. You excited?
+[00:01:40 – 00:01:41] Yeah.
+[00:01:42 – 00:01:44] I'm pretty excited to be honest. I love the bomb. So.
+[00:01:44 – 00:01:49] I'm looking forward. It's been about 20 years since I was there.
+[00:01:49 – 00:01:54] Well, hopefully you get a nice little refresher. So
+[00:01:54 – 00:01:55] Okay.
+[00:01:56 – 00:02:00] Today really is about this thing that we we all go through, but
+[00:02:00 – 00:02:07] You know, so often we set our mind to someone, we get kind of close, and then we slow down, right? We take our foot off the pedal or um.
+[00:02:08 – 00:02:09] You know, we got a bit inconsistent.
+[00:02:10 – 00:02:12] And oftentimes we use this word discipline.
+[00:02:13 – 00:02:16] We say, hey, if I had only had more discipline.
+[00:02:16 – 00:02:21] Would I actually get to follow my plan, right? Would I actually get the thing I'm looking for?
+[00:02:21 – 00:02:25] And the problem is, is discipline only takes you so far.
+[00:02:25 – 00:02:33] And the reason we only go so far is because there's an unconscious problem. And this is what I want to highlight and then fix and then create.
+[00:02:33 – 00:02:35] So the first problem
+[00:02:35 – 00:02:36] Is that
+[00:02:36 – 00:02:39] You know, I highlighted this at the seminar, but I'd like to highlight it now.
+[00:02:39 – 00:02:40] Your identity.
+[00:02:41 – 00:02:44] is based off of what you see in the future.
+[00:02:44 – 00:02:48] So your future self, what you perceive yourself to be.
+[00:02:49 – 00:03:04] Is how you are today. That's where all persuasion is in general, right? When you want an outcome with someone, you perceive what you need to do for the future. If you're focused on bad things happening in the future, your identity in the moment will change. And when your identity changes, so does your state, so does your beliefs.
+[00:03:05 – 00:03:07] Right. Identity is this, people make it.
+[00:03:07 – 00:03:21] Oh, yeah, you know, you have an identity. Well, your identity is always changing. It's just kind of like, what's your default identity? What's the default thing you expect is going to happen? What's your baseline? That's kind of what your main identity is. But your identity can change when.
+[00:03:21 – 00:03:29] You're around someone you really like. Your identity can change when you're around your parents. Your identity can change when you're around your friends, right? Your strategy really is constantly changing. So
+[00:03:30 – 00:03:31] To me.
+[00:03:31 – 00:03:36] That isn't the best way to define identity. So, the first thing I want to do is I want to define identity. Your identity
+[00:03:38 – 00:03:40] is defined by your future plan.
+[00:03:40 – 00:03:45] And if you don't have clarity on exactly what your future looks like.
+[00:03:46 – 00:03:49] then you don't really know who you are. That's number one. Number two,
+[00:03:50 – 00:04:04] If you want to be consistent with who you are, because for example, there are versions of us that go to the gym every day and eat perfect, and there's a version of us that sabotages them. There's a version of us that really works hard to make more money, and there's a version of us that doesn't.
+[00:04:04 – 00:04:06] So to really become consistent.
+[00:04:06 – 00:04:14] With who you are, so you consistently grow and consistently improve and consistently get the results you're looking for. Well, you have to.
+[00:04:15 – 00:04:16] really associate.
+[00:04:17 – 00:04:18] Clearly.
+[00:04:18 – 00:04:24] To the goal and the future you're looking for. So, I wanna show you guys how to do that and why sometimes you'll lose touch.
+[00:04:25 – 00:04:30] With the thing you want. So, an example of this would be: you know, oftentimes someone tries to get in shape.
+[00:04:31 – 00:04:34] And this is an example that I give because I think it's a very common one.
+[00:04:34 – 00:04:37] So someone tries to get in shape, right? You're there.
+[00:04:37 – 00:04:40] You've lost 20 pounds. You have 10 to go.
+[00:04:40 – 00:04:47] You're on your last 10 pounds. And at your last 10 pounds, you fuck it all up, right? You look in the mirror one day and you go, wow, I look great. And then you stop.
+[00:04:47 – 00:04:55] Or your brain convinces you that you haven't made any progress. I'm working so hard, I feel like shit, I'm not making any progress. And then you sabotage, you don't even go to the gym anymore.
+[00:04:55 – 00:04:58] And that happens not because you don't look better.
+[00:04:58 – 00:05:01] It happens because you're
+[00:05:01 – 00:05:02] at a conflict.
+[00:05:02 – 00:05:10] And the conflict is, I actually haven't looked beyond this point. So if the furthest point you look at in the future.
+[00:05:11 – 00:05:12] Is that point?
+[00:05:12 – 00:05:16] That is the moment you sabotage. Sabotage only happens.
+[00:05:16 – 00:05:24] When you reach the point in which you planned, after that point, you haven't planned anything further, you sabotage.
+[00:05:24 – 00:05:29] And that's where people fuck up. So, if you ever, you know, very common thing that happens with men.
+[00:05:29 – 00:05:31] Is the data girl who doesn't feel good enough for her?
+[00:05:32 – 00:05:34] and entrepreneurial event.
+[00:05:34 – 00:05:36] And if she doesn't feel good enough for them.
+[00:05:36 – 00:05:55] She'll be amazing, amazing, amazing sabotage. She gets sabotaged by cheating. She gets sabotaged by ghosting you. She gets sabotaged by doing a bunch of horrible things. She could be rude. You know, she could hurt herself. Like, there's a million things she could do to ruin it. And usually, that happens because the relationship reached a point.
+[00:05:55 – 00:05:57] Beyond expectation.
+[00:05:57 – 00:06:12] So the expectation, not the desire, there's a difference. The desire is what somebody says they want consciously. The expectation is what they're programmed to believe will happen unconsciously. And that's what we want to focus on today. How do we change our expectation?
+[00:06:12 – 00:06:20] To align with our desires. And how do we do that for the people we communicate with? Well, you can't always do that. So when you talk to someone about potential,
+[00:06:20 – 00:06:21] What you're really talking to them about.
+[00:06:22 – 00:06:23] It is desired.
+[00:06:24 – 00:06:33] But desire is not a conversation that has any impact or influence on anybody. It's always expectation. And this is why this lesson is so valuable because.
+[00:06:33 – 00:06:41] I don't think anybody else ever had a conversation about how you take someone's expectations.
+[00:06:41 – 00:06:54] Right, the unconscious programs and understand where is my limit? Where do I cap my expectations? So, for instance, if you look at the most money you've ever made in your whole life, the most money you've ever made.
+[00:06:55 – 00:06:56] whatever that may be in a day.
+[00:06:56 – 00:07:01] If you look at that and you say, okay, the most I've ever made in my whole life is, I don't know.
+[00:07:02 – 00:07:02] It's
+[00:07:04 – 00:07:05] 100,000 a day.
+[00:07:06 – 00:07:10] And your most over on your bank account is$500,000. Keep the numbers really, really simple.
+[00:07:11 – 00:07:15] That means that there's an unconscious expectation.
+[00:07:15 – 00:07:17] That once I hit this amount.
+[00:07:18 – 00:07:30] Something has to change. So the meaning changes in that moment. But what really changed is your identity. When you have shattered all limiting beliefs and you reach a whole new height or a whole new level,
+[00:07:31 – 00:07:32] That's the moment.
+[00:07:33 – 00:07:34] Where fear kicks in.
+[00:07:35 – 00:07:43] And the reason fear kicks in is because the expectation in your mind has now shifted to something bad.
+[00:07:43 – 00:07:46] To losing it all, something negative.
+[00:07:46 – 00:07:49] To, oh my God, I'm going to get exposed for not being good enough.
+[00:07:49 – 00:07:51] So it's very important.
+[00:07:51 – 00:07:55] when you get close to the goal not when you get to the goal when you get close to the goal
+[00:07:56 – 00:07:58] to realign your expectations.
+[00:07:59 – 00:08:00] and push further.
+[00:08:00 – 00:08:20] So there are some people that do this all the time, and it looks like they're constantly on the grind. No matter what, they're always pushing harder, they're always putting their foot down. There's something that allows them to continue to move. You look at Kobe Bryant, one championship wasn't enough, two wasn't enough, three wasn't enough, four wasn't enough, five wasn't enough.
+[00:08:20 – 00:08:27] Motherfucker ruptures his Achilles, not even tears his Achilles, walks to the fucking free throw line.
+[00:08:27 – 00:08:34] Nails two free throws with probably one of the most painful injuries that exists in the world, then walks off the court.
+[00:08:34 – 00:08:42] Right, because he doesn't see himself not playing anymore. He goes, It's fine, I'll come back in at the next quarter. That's probably what he's thinking.
+[00:08:42 – 00:08:53] Because he's a fucking savage and it realigns his expectations. You look at someone like Derek Rose, though, as amazing as he was, second he fucks his Achille ACL, right? Tears his entire
+[00:08:53 – 00:08:55] All the temps and his need.
+[00:08:55 – 00:08:56] That's it for his career.
+[00:08:56 – 00:09:01] It changed his identity. He expected that he'll never be this good again. I remember.
+[00:09:01 – 00:09:07] I won a championship in volleyball my first season ever playing. I became literally one of the highest-ranked players in the entire country.
+[00:09:07 – 00:09:09] My first time ever playing volleyball.
+[00:09:10 – 00:09:11] And then I come back the next season.
+[00:09:12 – 00:09:14] And for some reason, I started playing worse.
+[00:09:15 – 00:09:15] That's playing horrible.
+[00:09:16 – 00:09:22] And I had to realign my expectations and say, I'm going to be the best again. And that's exactly what happened.
+[00:09:22 – 00:09:38] And the only reason that happened again was because of the fact that I realized I hit a certain level of athleticism I'd never hit before. And I had to realign to go to the next level. So I started thinking about Olympics and all this. Even though I didn't want to go to the Olympics, I had to realign with my mindset saying I'm an Olympian.
+[00:09:39 – 00:09:43] Right. And then kind of was able to double down. Now, financially, when you're looking at what you do,
+[00:09:43 – 00:09:51] When you're looking at, hey, I want to go to the next level financially, right before you hit a million dollars or right before you hit that$2 million, whatever the goal is, right? 10 million.
+[00:09:51 – 00:09:54] Right before you hit it, you realign the 30 mil.
+[00:09:54 – 00:10:00] And then you go, okay, next expectation: 50 million. So sabotage, self-sabotage occurs.
+[00:10:00 – 00:10:06] Because you haven't looked far enough into the future about what you wanted and made a plan.
+[00:10:06 – 00:10:14] And when that plan that you have in the future does not align with the reality, because you're growing so fast, because things are working out for you so fast.
+[00:10:14 – 00:10:15] You ruin it.
+[00:10:16 – 00:10:16] And
+[00:10:16 – 00:10:19] This is what I want to show you how to shift.
+[00:10:19 – 00:10:20] I want to show you how to one.
+[00:10:21 – 00:10:26] Because you might think, hey, I see myself making 30, but I'm sabotaging at a million.
+[00:10:26 – 00:10:35] Well, that's happening because you're also not associating to the goal. You're not seeing yourself in there, you're not experiencing it in your body, you're not feeling it.
+[00:10:36 – 00:10:39] And you're not in that state. So the best way to look.
+[00:10:39 – 00:10:43] At what you actually expect as opposed to
+[00:10:44 – 00:10:45] The
+[00:10:46 – 00:10:47] desire
+[00:10:48 – 00:10:48] Is
+[00:10:49 – 00:10:51] To align your feelings.
+[00:10:52 – 00:11:03] With what you like in your mind, what am I actually feeling? Not what am I saying I want. So, we all consciously want more money, we all consciously want the best relationships, we all consciously want a better body.
+[00:11:03 – 00:11:04] But
+[00:11:04 – 00:11:06] What do I feel internally?
+[00:11:07 – 00:11:15] And that's the issue. So right now I'm the leanest I've probably ever been. Okay. And I'm going to continuously get leaner. Like before we go to Bahamas, I set the goal, I'm going to make it happen.
+[00:11:15 – 00:11:20] right so this is this morning and the leanest i've probably ever been a very very long time
+[00:11:20 – 00:11:29] Actually, I think ever. So I'm trying to get that's 10%. I'm trying to get to 7.5%, 8% by the time we get to Bahamas. Now, because it's the leanest ever been.
+[00:11:29 – 00:11:32] And I'm pushing myself past the limit I had before.
+[00:11:33 – 00:11:37] I could see my mind playing these tricks with me. So I'll tell you what it looks like even from my lens.
+[00:11:37 – 00:11:40] I get to this point and my mind goes, you made it.
+[00:11:41 – 00:11:46] But I didn't. I didn't make anything yet. Yeah, okay, I've improved, but I'm not there yet. First, your mind goes, you made it.
+[00:11:46 – 00:11:49] then you actually get into a negative state.
+[00:11:49 – 00:11:52] To the point where I didn't want to go to the gym yesterday. I didn't want to do it. So
+[00:11:53 – 00:11:55] to tell my mind to shut the fuck up.
+[00:11:55 – 00:11:58] I woke up at 3 a.m. for the last two days in a row.
+[00:11:59 – 00:12:00] And I go to the gym.
+[00:12:00 – 00:12:08] And then I go grind and I'm working nonstop. I'm already at 15,000 steps right now, right? Just to give you perspective. And I'm going to go to the gym again after our call.
+[00:12:09 – 00:12:14] Just because I'm gonna let my mind know that the version of me that I'm becoming.
+[00:12:14 – 00:12:28] Is going to happen, and it's going to happen regardless of what my mind wants to fall back to. Your mind has a goal, it's kind of like think of it this way: the mechanism in your mind is: hey, once I've accomplished the thing that I need, like you put all your conscious attention on something.
+[00:12:29 – 00:12:31] And once you once you've accomplished it.
+[00:12:31 – 00:12:41] It puts it on a back burner onto old programs. And if those old programs aren't aligned with the thing that you want, you resort back to your old behavior. So the only way to update a program.
+[00:12:41 – 00:12:57] Is to update the expectation of what you think is going to happen. Very few, you know, people are always like, hey, it's very important to set your goals. Why is it important to set goals? It's important to set goals because it will only allow you to achieve your mind. It will only allow you to achieve what you want.
+[00:12:58 – 00:12:58] If
+[00:12:58 – 00:13:03] It's crystal clear what you're going for. So a really great example. I'll give you a story.
+[00:13:03 – 00:13:11] And this happened to me many, many times. And as you level up, I just want you to know: probably not for Stephen as much because at this point, he's just very, very experienced.
+[00:13:11 – 00:13:15] You know, Kishan, for you, what you'll find is as you continue to level up,
+[00:13:15 – 00:13:19] you'll have this sweet spot, this period of time where women look at you and they
+[00:13:19 – 00:13:23] I'll fall in love with you. And then you'll pass that within a few months, three, four, five months.
+[00:13:24 – 00:13:28] And they do all like you and they all fall in love with you, but then they all ruin it.
+[00:13:28 – 00:13:29] All of them will sabotage it.
+[00:13:30 – 00:13:41] And you start asking yourself what the fuck is going on, which leads me to now the next part of the call, which I want to show you. And that's alignment. Alignment not just between your conscious mind and subconscious mind, but your
+[00:13:42 – 00:13:47] Alignment with other individuals. And this is what I think is the key to all persuasion.
+[00:13:47 – 00:13:54] I also think this is the key to what we need to understand when you're communicating. This is the best communicator. So you have.
+[00:13:55 – 00:13:58] Expectation A, they have expectation B.
+[00:13:58 – 00:13:59] The goal
+[00:14:00 – 00:14:03] Is to bring both expectations together.
+[00:14:03 – 00:14:08] In harmony. The problem you have is that usually the expectations.
+[00:14:08 – 00:14:14] Stay separate, and the only time the expectations align is from month one to three.
+[00:14:15 – 00:14:24] So month one to three, if you're really slow, sometimes one to two years, because people really don't value time, so they're very, very slow. So, this is the honeymoon phase.
+[00:14:24 – 00:14:31] The second you move into a new definition now: fiancée, husband, wife, all right, we're moving forward, new definition.
+[00:14:31 – 00:14:34] You go back to old expectations.
+[00:14:34 – 00:14:36] And the strategy shifts.
+[00:14:36 – 00:14:38] And this is where things have to change.
+[00:14:39 – 00:14:42] And the reason they have to change is because in that moment,
+[00:14:43 – 00:14:45] where they don't align with you.
+[00:14:45 – 00:14:46] That's the moment.
+[00:14:47 – 00:14:49] where everything can go to shit.
+[00:14:50 – 00:14:51] So what I want to show you
+[00:14:51 – 00:14:57] One is how you get your own mind and your expectations to align with your desire.
+[00:14:57 – 00:15:00] Two, how do you communicate that to somebody else?
+[00:15:01 – 00:15:02] And
+[00:15:02 – 00:15:05] If you can nail both of these down.
+[00:15:05 – 00:15:08] I think one, your quality of life will improve dramatically.
+[00:15:08 – 00:15:14] And two, your ability to get other people to follow your lead will go up significantly as well.
+[00:15:14 – 00:15:14] But
+[00:15:15 – 00:15:16] For instance, all of you want to get better.
+[00:15:17 – 00:15:19] And all of you want to improve.
+[00:15:19 – 00:15:25] And you all want more money, you want to have more skill set, you want to have a better mindset, a stronger mindset, you wouldn't be here, you wouldn't be working with me.
+[00:15:25 – 00:15:27] So I know that's the outcome you want.
+[00:15:28 – 00:15:36] The outcome I want is to be the best in the world at my craft and to continuously hone in my skill set so I can deliver on the highest level for you.
+[00:15:36 – 00:15:37] Knowing that.
+[00:15:38 – 00:15:40] My mind goes, okay.
+[00:15:40 – 00:15:44] What is an aligned outcome for you and for me?
+[00:15:44 – 00:15:45] Well
+[00:15:45 – 00:16:04] If I continuously get better, does that align with you achieving your goals faster and more easily? Yes, it does. So there's synergy, there's alignment, there's congruence, and now we are on the same page. You guys want to continue to transact with me? You want to continue to work with me? And you want to continue to show up and spend your valuable time with me.
+[00:16:05 – 00:16:10] I simultaneously get a feedback loop. Hey, things are improving. Let's make it happen.
+[00:16:11 – 00:16:18] So, the confidence, right? When people talk about confidence, what is confidence? Confidence is: hey, this is what I want, but the world is telling me something else.
+[00:16:18 – 00:16:20] And when the world tells you something else.
+[00:16:20 – 00:16:24] your belief and this is a key point your self-belief can change
+[00:16:24 – 00:16:32] If I don't believe I'm going to get what I want, like you look in the mirror and you have delusional perception, you go, I look ugly, I look fat, when you're actually making a lot of progress.
+[00:16:32 – 00:16:37] Suddenly, your brain goes, I guess I'll never reach my goal. Identity changes, habits change.
+[00:16:38 – 00:16:41] For example, when you get to the point where you're about to sabotage.
+[00:16:42 – 00:17:00] The mind plays mind games on you with the relationship says, Oh, this person is bad, they're going to cheat, they're going to do this. Even though they're perfect, suddenly you see a future where they affect you negatively, and then bam, you ruin it. So, you also have to realize that you should communicate what can happen before it does.
+[00:17:00 – 00:17:05] And educate the people you work with, educate the people you're around on this theory, on this subject.
+[00:17:05 – 00:17:07] Because if you don't, it can fuck it up for you.
+[00:17:08 – 00:17:11] I think the way I'm articulating it in a map that I'm presenting to you.
+[00:17:12 – 00:17:19] Is probably the only person in the world who presents it in this way because I've thought about it in this way. So, what I'd like to show you.
+[00:17:19 – 00:17:22] Is how do you first align what you want?
+[00:17:22 – 00:17:24] with your unconscious expectation.
+[00:17:25 – 00:17:25] And
+[00:17:25 – 00:17:28] It step one is awareness, you know, the awareness that.
+[00:17:29 – 00:17:30] deep down
+[00:17:30 – 00:17:34] you don't really want it. Deep down, you don't really see it. Deep down, you don't really feel it.
+[00:17:35 – 00:17:40] So, what I did to make myself more motivated and to make myself more excited.
+[00:17:40 – 00:17:42] is I said, okay.
+[00:17:42 – 00:17:46] Every time I focus on the goal and I focus on my body.
+[00:17:47 – 00:17:47] I fail.
+[00:17:48 – 00:17:56] And I failed because deep down, there was one thing that I could not get out of my mind, right? So I could see myself working out hard. I work out harder than anybody.
+[00:17:56 – 00:18:02] I could see myself walking 20, 30,000 steps, doing the cardio. I saw all of that. I changed one thing.
+[00:18:03 – 00:18:08] And this is the one thing I wasn't aware of that I had to become aware of that was holding me back. And that one thing.
+[00:18:08 – 00:18:10] was that I associated love
+[00:18:10 – 00:18:11] to Edo.
+[00:18:12 – 00:18:13] So I would always see.
+[00:18:13 – 00:18:17] Massive loss of love, massive loss of social life.
+[00:18:17 – 00:18:19] Massive loss of fun.
+[00:18:20 – 00:18:35] If I were to get in the best shape of my life, unconsciously, I was compartmentalizing. I liked the way my body looks, but I didn't like the way I would feel on the way to making my body look like that. And I always saw it taking way too much time, I always stopped.
+[00:18:36 – 00:18:39] For example, where I'm at right now, I would my best.
+[00:18:39 – 00:18:42] was always 10 days away from where I am today.
+[00:18:43 – 00:18:53] And where I'm about to be is about 20, where my best ever is 21 days away from where I am today. So one month, four weeks away, I do the work for five, six, seven, eight months sometimes.
+[00:18:54 – 00:18:55] And I was always four weeks away.
+[00:18:56 – 00:18:57] from being the best day of my life.
+[00:18:58 – 00:19:04] But that's because at four weeks away, my mind said, time to shift. And the foundation was: I used to be fat.
+[00:19:04 – 00:19:07] So for me to even get to this point.
+[00:19:07 – 00:19:08] in my body.
+[00:19:08 – 00:19:10] was dramatic for me.
+[00:19:10 – 00:19:28] And I would sabotage it. Everyone sabotages, but I would sabotage this specific thing because I would either go from 12 back to 14%, back down to 12%, and I was never able to keep pushing. Now I'm at 10%. And I believe my goal, I mean, I'm going to try to get seven, maybe even 6% if I can.
+[00:19:28 – 00:19:31] But the goal is to stay consistent and keep pushing.
+[00:19:31 – 00:19:40] For you to never sabotage anything in your life, you have to understand first of all, what have I wanted for so long and never actually got?
+[00:19:41 – 00:19:48] Right. Don't just look at the actions that you don't do. For example, I want to go on dates, but I don't meet up, I don't walk up to girls. Of course, I'm not going to go on dates, right?
+[00:19:48 – 00:20:08] So, my number one priority right now is to be an amazing shit. My number two priority is to dial in my business and scale it up to$4 or$5 million a month. That has been my number two priority since my seminar. I'm like, okay, time to really level this thing up. I've hired 15 people since my seminar a week ago, and the culture in the company has been.
+[00:20:08 – 00:20:22] Immaculate, probably the best it's ever been. My company is running at a level probably higher than some Fortune 500 companies that I've worked with. And I look at it, and here's why: I'm all about speed, efficiency, communication, and there's one thing I changed.
+[00:20:22 – 00:20:28] In my personal mindset and in the culture of my company, which is obviously going to tie into today's lesson.
+[00:20:29 – 00:20:30] And it's feedback.
+[00:20:31 – 00:20:32] the more feedback you have.
+[00:20:33 – 00:20:39] With a combination. The recipe is self-confidence, self-confidence in the fact that you're going to get your goal no matter what.
+[00:20:39 – 00:20:53] You only see that in your head. That becomes your identity. This is my future. For example, I'm a champion. I will win five rings. I will be the go, right? Like when you have that in your head, that's the mindset. And the feedback you're getting is: this isn't working.
+[00:20:53 – 00:20:55] We're not getting that result.
+[00:20:55 – 00:20:56] You change.
+[00:20:56 – 00:20:58] You then say, fuck this.
+[00:20:58 – 00:21:04] You switch up the strategy and then you go execute. And that's the point: is that if you don't.
+[00:21:05 – 00:21:05] Get feedback.
+[00:21:06 – 00:21:08] then it's kind of like driving a car blind.
+[00:21:09 – 00:21:13] Kind of like, oh, hey, I don't know. And then what ends up happening is willpower.
+[00:21:13 – 00:21:20] And morale starts to diminish because your expectation doesn't just include an outcome, it includes a timeline.
+[00:21:20 – 00:21:24] And without feedback, you can never adjust the timeline.
+[00:21:24 – 00:21:43] And therefore, you start to doubt your future. That's when you doubt that you're going to actually get what you want. And when you start doubting that you're getting what you want, that's when your identity shifts. So, an example here is: if I'm giving assignments to my team and nothing's getting done, revenue's not improving. This happens for a year, and I've been expecting to hit this goal for like three years.
+[00:21:44 – 00:21:57] And now here I am, you know, over and over. And for a year, nothing gets done. I'm just frustrated. I'm like, I can never do it. Something's wrong. No, it'll never happen. Rather than understanding why, the more you know, the better. So the more feedback you get.
+[00:21:57 – 00:21:59] the easier it'll be to make shit happen.
+[00:22:00 – 00:22:09] Now, when you implement the right strategies, everything is easy. So, feedback, for example, on a diet: what's the number one benchmark you want to look at besides visual appearance?
+[00:22:11 – 00:22:11] Wait.
+[00:22:12 – 00:22:16] Right, I want to look at my weight. Did my weight improve? Did it not improve? When you're looking at income,
+[00:22:16 – 00:22:18] What is the number one metric you want to look at?
+[00:22:19 – 00:22:19] The money.
+[00:22:19 – 00:22:21] How much are we making?
+[00:22:21 – 00:22:36] How much is left? What are we spending? What's our profit? Right? You're looking at the benchmark. What cannot be measured, cannot be managed. You cannot manage your goals if you cannot measure them on benchmarks. Confidence only gets you so far.
+[00:22:36 – 00:22:44] It only gets you so far. The thing you can't rely on is confidence because your mind, especially when it reaches the limit of its goals,
+[00:22:45 – 00:22:46] When it reaches the limit,
+[00:22:47 – 00:22:48] It starts to fuck with you.
+[00:22:48 – 00:22:57] It will fuck with your confidence. It will fuck with your perception. It's like a mirage. It starts to become, give you illusions and convince you that things aren't going the way they are.
+[00:22:58 – 00:22:59] which is why it's important.
+[00:22:59 – 00:23:12] To oh, this is why people say meditate. Meditate because it gets you aligned with the identity, with the outcome, without being faced. So, the ultimate goal of personal development is to not be faced. Now, there's the biological.
+[00:23:12 – 00:23:14] Aspects, right?
+[00:23:14 – 00:23:17] There's mastering the body and the mind.
+[00:23:17 – 00:23:22] And then there's the spiritual aspects, whether you believe in spirituality or not, whether you're religious or not.
+[00:23:22 – 00:23:25] That paradigm is the only way to elevate.
+[00:23:26 – 00:23:27] beyond the primal self.
+[00:23:27 – 00:23:32] Because for some reason in our hardwiring, the spirituality.
+[00:23:33 – 00:23:49] Has a massive impact. And that's really kind of it's not a spiritual retreat we're going on, but that's going to be a massive portion of elevating into that level of abundance, right? Like that, that energy, that feeling of love, that's going to be part of it. And it's going to be part of it because I want to show you when you're in that mindset.
+[00:23:50 – 00:24:04] The body can't change you, it can't make you delusional, it won't alter you, and this is why it's really important to know where you're going. When you know where you're going, identity never shifts, when you know the target, identity never changes. Doesn't matter how you feel, you still get it done.
+[00:24:04 – 00:24:09] The reason people are so responsive to their feelings is because they haven't gotten enough clarity.
+[00:24:09 – 00:24:16] On where they're going, and they also haven't gotten enough clarity on why they can't get to where they're going. So, desire, expectation.
+[00:24:17 – 00:24:23] The thing we got to become aware of, step one, like I said, is the awareness of your expectations. Like I told you, when I wanted to lose weight,
+[00:24:23 – 00:24:31] I still couldn't let go of eating out with friends. And obviously, if you eat out, can you measure your calories? No, I would accidentally go over even if I was eating healthy.
+[00:24:31 – 00:24:36] Even if I was eating healthy, I would eat more than I should because I wasn't able to measure what I was eating.
+[00:24:36 – 00:24:38] Right? Second thing.
+[00:24:38 – 00:24:39] Once you have the awareness.
+[00:24:40 – 00:24:41] You need to have intent.
+[00:24:42 – 00:24:46] clear intention where do I want this to go
+[00:24:47 – 00:24:57] Where do I want this to go and why do I want it to go there? So, an example of this would be: hey, obviously, I want to make more money. That's intention. But that's not just the only intent.
+[00:24:57 – 00:25:03] The intention of making more money, let's break it down. What has to change in my organization?
+[00:25:03 – 00:25:09] What has to change in my delivery? What has to change in my habits and my rituals? You got to break it down because.
+[00:25:10 – 00:25:11] If you don't
+[00:25:11 – 00:25:12] Nothing changes.
+[00:25:13 – 00:25:21] You could just set the intent to make more money and be a little bit more motivated and run a little bit faster on the hamster wheel, but you didn't actually inherently solve the problem.
+[00:25:21 – 00:25:30] So being flexible and changing the strategy is very, very important as well, because you don't want to put in more effort. You just want to put in more effective effort.
+[00:25:30 – 00:25:33] And the way to do that oftentimes is to strategize.
+[00:25:34 – 00:25:35] Efficiently.
+[00:25:37 – 00:25:38] I'll give you guys another really great example.
+[00:25:40 – 00:25:40] That's
+[00:25:42 – 00:25:43] Let's just say.
+[00:25:44 – 00:25:46] You want to meet
+[00:25:46 – 00:25:49] a super, super wealthy group of individuals.
+[00:25:51 – 00:25:53] Instead of trying to email.
+[00:25:54 – 00:25:56] A thousand people to get in touch with.
+[00:25:57 – 00:25:58] The CEO of Chanel, right?
+[00:25:59 – 00:26:02] I could find out that they're friends with Andrea Bocelli.
+[00:26:03 – 00:26:07] And they're also friends with probably if that's one charity event they go to, I'm sure they go to other ones, right?
+[00:26:07 – 00:26:09] And just go make money.
+[00:26:09 – 00:26:16] Right, I only spent about$7,500 to go plus another, I don't know,$10K to travel and all this shit. So I'll just say$20K.
+[00:26:16 – 00:26:18] It only cost me 20K.
+[00:26:18 – 00:26:20] So run into them at an event.
+[00:26:21 – 00:26:22] And when I look at that, I go, okay.
+[00:26:23 – 00:26:28] How much time, energy, and effort would it have cost to have met this person anywhere else?
+[00:26:30 – 00:26:31] Probably.
+[00:26:32 – 00:26:34] unlimited. It probably would have never happened.
+[00:26:35 – 00:26:36] Right? So
+[00:26:36 – 00:26:38] Understanding that sometimes the best
+[00:26:38 – 00:26:39] Strategy
+[00:26:39 – 00:26:41] is usually cheaper.
+[00:26:41 – 00:26:43] and more time effective.
+[00:26:43 – 00:26:45] And the only reason you haven't found it
+[00:26:46 – 00:26:53] It's because you haven't thought outside the box. And why haven't you thought outside the box? Why is someone unmotivated to think outside the box?
+[00:26:54 – 00:27:00] Because they don't actually see themselves. The expectation is that they're actually not going to get what they want.
+[00:27:00 – 00:27:02] When you are in love.
+[00:27:02 – 00:27:09] The reason you feel in love is because you deep down believe you're going to get the thing you want.
+[00:27:09 – 00:27:13] Do you deep down believe that the person you're in love with will end up with you?
+[00:27:13 – 00:27:24] That's why, when you are in love, you're willing to do whatever it takes. If you haven't been in love, that's fine, but look at everyone else who is. They will stop at nothing.
+[00:27:24 – 00:27:25] Nothing.
+[00:27:26 – 00:27:30] To get the girl or the guy that they love. They'll do anything for them. And this is the point.
+[00:27:31 – 00:27:32] How do I?
+[00:27:32 – 00:27:35] elicit that level of confidence. Being in love.
+[00:27:35 – 00:27:49] Is massive confidence in a result. It is delusional confidence, sometimes ridiculously delusional, where they sit there and they go, oh my God, yes, I'm going to get this result. Totally uncalibrated because they're missing.
+[00:27:49 – 00:27:50] What?
+[00:27:51 – 00:27:51] Feedback.
+[00:27:53 – 00:27:54] they're missing feedback now.
+[00:27:55 – 00:27:56] I in a weird way.
+[00:27:56 – 00:27:59] Also, did some crazy shit three years ago today.
+[00:28:00 – 00:28:05] I met a girl that I saw on Instagram, was the biggest model in her country at the time.
+[00:28:06 – 00:28:08] Would not respond to my DM, obviously.
+[00:28:09 – 00:28:13] figured out a strategy to get in touch with her manager, figured out a strategy to hire her.
+[00:28:13 – 00:28:15] To fly out to Bahamas with her dad.
+[00:28:16 – 00:28:18] and then was able to implement.
+[00:28:19 – 00:28:23] everything I needed to implement strategically to make it work for me.
+[00:28:23 – 00:28:24] And I got it.
+[00:28:24 – 00:28:33] Three years ago today, literally, today's the anniversary of that. And we're also going to the Bahamas because I just love it. So that's a place that I love going to. But the idea.
+[00:28:33 – 00:28:34] Is that
+[00:28:35 – 00:28:39] I had the feedback. Hey, I sent a DM. She responded: No.
+[00:28:39 – 00:28:40] Of course she's not going to respond.
+[00:28:41 – 00:28:45] I could have been delusional and just kept sending a thousand DMs. How often do you see someone?
+[00:28:45 – 00:28:49] Just DM a girl 800 times thinking, hey, maybe this time she'll reply.
+[00:28:49 – 00:28:50] Of course not.
+[00:28:50 – 00:28:53] It's about being strategic. Everything is about strategy.
+[00:28:54 – 00:28:54] Yeah.
+[00:28:55 – 00:28:57] One second.
+[00:28:57 – 00:28:58] Mm-hmm.
+[00:28:59 – 00:29:02] Anyways, so because
+[00:29:02 – 00:29:06] Because a lot of people aren't able to take feedback at all.
+[00:29:06 – 00:29:09] The ego is there. What does it really tell me?
+[00:29:09 – 00:29:14] When there's an ego involved, it means that they're not actually confident in the result.
+[00:29:14 – 00:29:17] The intention, the actual unconscious.
+[00:29:18 – 00:29:20] expectation
+[00:29:20 – 00:29:23] is not ever that they would have gotten what they wanted.
+[00:29:23 – 00:29:27] When there's an ego involved, they never believed they would get what they wanted in the first place.
+[00:29:28 – 00:29:29] what they truly believed.
+[00:29:30 – 00:29:31] And this is important.
+[00:29:32 – 00:29:33] is that they would look
+[00:29:33 – 00:29:35] Like they got what they wanted.
+[00:29:35 – 00:29:37] And to a lot of people, that's more important.
+[00:29:37 – 00:29:40] I would rather look like I got what I wanted.
+[00:29:40 – 00:29:42] then actually get what I want.
+[00:29:42 – 00:29:49] So some people want to look like they're more successful than they are. They want to look like they're happier than they are, not actually be happy.
+[00:29:49 – 00:29:52] Because to them, the actual expectation is what?
+[00:29:52 – 00:29:53] Mm-hmm.
+[00:29:56 – 00:29:57] How do I fucking turn?
+[00:29:59 – 00:29:59] All right, there you go.
+[00:30:00 – 00:30:04] Sorry, someone left their fucking phone here and it's making noise. So
+[00:30:05 – 00:30:06] Here's how you look at this.
+[00:30:08 – 00:30:09] Who here knows someone?
+[00:30:10 – 00:30:10] That
+[00:30:11 – 00:30:19] Just cares about how they look more than they care about the actual result. Like, I care about looking famous. So, they'll take a picture with a car or a jet that's not theirs, right? You've all seen that.
+[00:30:19 – 00:30:22] Well the reason that happens is'cause they never believed they would get it in the first place.
+[00:30:24 – 00:30:28] So if I if I believe I can't have it, what's the second best choice?
+[00:30:30 – 00:30:34] Make it look like I I do. At least I can make it look like it.
+[00:30:34 – 00:30:36] At least I can make it look like I'm this way.
+[00:30:36 – 00:30:39] Right, so a lot of people who are shitty people.
+[00:30:39 – 00:30:42] They know they can't be good, right? They've they've gone through so much bullshit.
+[00:30:43 – 00:30:43] The whole lives.
+[00:30:44 – 00:30:48] They've gone through so much pain, like, you know, no one's good. I hope that they will be.
+[00:30:48 – 00:30:50] But at least I can act like I am.
+[00:30:50 – 00:30:54] Like at least I'll act like I'm a good person because they've been around horrible people their whole life.
+[00:30:54 – 00:30:57] Suddenly, they don't actually have empathy. They just act like they're good.
+[00:30:58 – 00:31:01] You run into them. You fall for it because you think they're actually good.
+[00:31:01 – 00:31:05] And then you realize it's not actually a good person. It's a scam artist. It's a player. It's someone not good.
+[00:31:06 – 00:31:06] And
+[00:31:07 – 00:31:15] It's important to align your expectation with theirs. So there's a few questions you can ask an individual when you first meet them.
+[00:31:15 – 00:31:16] And
+[00:31:17 – 00:31:18] This is how it looks. So
+[00:31:20 – 00:31:23] I could say, hey, you know, how are you doing? Very low.
+[00:31:23 – 00:31:28] You know, very charismatic, but very low stress, nothing serious. Hey, you know, blah blah blah.
+[00:31:29 – 00:31:30] By the way, you know, I have a question.
+[00:31:31 – 00:31:35] Who here do you think is actually a good person? Like, how do you know someone's a good person?
+[00:31:35 – 00:31:37] And just see what they say.
+[00:31:37 – 00:31:42] Right. And oh, no one's a good person. No, I don't trust anybody. You know, there's no way people are bad.
+[00:31:42 – 00:31:44] Really? What's the biggest lesson you've ever learned from that?
+[00:31:45 – 00:31:48] I've learned that people are horrible. You can't trust anyone.
+[00:31:48 – 00:31:53] What they're really saying, right? Because they think everyone is like them. That's what you have to realize. They think everyone is like them.
+[00:31:54 – 00:31:58] So what they're doing when they're saying that is they're telling you how they actually are.
+[00:31:58 – 00:32:14] And you'll save yourself a lot of time. You know, for example, in dating, if you go up to a girl and you're like, hey, what do you think about that girl over there? Like, how do you know if a girl's a good girl or a bad girl? They'll be like, well, I think if she's a good girl, she doesn't go out. She's super respectful. She's super loving. Like, you have to realize a lot of these women that treat you bad.
+[00:32:15 – 00:32:21] They know how to act. They know what's good and they know what's bad. You know, it's like a guy. A guy knows what he's doing. A guy knows he's cheating. A guy knows he's being a piece of shit.
+[00:32:21 – 00:32:22] They know.
+[00:32:22 – 00:32:26] So how do you know guy's bad? Oh, well guy's bad because blah blah blah.
+[00:32:26 – 00:32:28] Great. How do you know if he's good?
+[00:32:28 – 00:32:34] Well, a guy will answer you and he'll say, Well, he's good if he does XYZ. Or a girl will answer you and say, Well, she's good if she does XYZ.
+[00:32:34 – 00:32:38] Great. Anytime they don't do that, you can hold it over their head for the rest of their life.
+[00:32:38 – 00:32:46] Because they've literally now defined, they've given you a blueprint in their head for what an expectation would be for a good person. Now, here's the wild part.
+[00:32:47 – 00:32:52] Some people have such low self-esteem, such low self-confidence that they could ever get anything good.
+[00:32:53 – 00:32:55] But to them, someone good is well, you know.
+[00:32:56 – 00:33:00] Uh he just loves me. Like he doesn't have to be loyal. He just has to love me.
+[00:33:01 – 00:33:01] Wow.
+[00:33:02 – 00:33:04] Your standard is so low. It's so low.
+[00:33:05 – 00:33:07] That you could be with someone who treats you like shit.
+[00:33:08 – 00:33:10] And then the workout. Now, here's something to know.
+[00:33:10 – 00:33:12] You only want to be around people on your level.
+[00:33:13 – 00:33:15] because the expectation for
+[00:33:15 – 00:33:20] Someone who isn't is horrible. They don't have an expectation for that. They don't know how to handle someone.
+[00:33:21 – 00:33:26] Who isn't at their level, who's way above them. And what that looks like is this.
+[00:33:27 – 00:33:30] If you treat me like shit, like I'm controlling you, like hey.
+[00:33:30 – 00:33:34] You can't go out. Can't do this. You can't talk to them. You have no friends.
+[00:33:34 – 00:33:35] Control it.
+[00:33:35 – 00:33:37] As much as they'll complain.
+[00:33:37 – 00:33:43] Because they are insecure, and that's their expectation of what it means to be loved.
+[00:33:44 – 00:33:47] they would be way better and well behaved in that.
+[00:33:48 – 00:33:49] context.
+[00:33:49 – 00:33:53] Than they would be with someone who gives them freedom and respect because they'll exploit the freedom.
+[00:33:53 – 00:33:55] and they'll exploit the respect.
+[00:33:55 – 00:34:02] And they'll say, I don't know how to handle this. Let me ruin it to try and get them to control me.
+[00:34:02 – 00:34:04] to go back to my expectation.
+[00:34:04 – 00:34:19] So let me try and get you to control me. But the problem is, what kind of headache do you want? You don't need to sit there and have the burden of control and have the stress of having to worry about someone. Same thing with someone who's doing business, right? Someone who's not used to doing business the right way.
+[00:34:20 – 00:34:22] We'll always try to do things the wrong way.
+[00:34:22 – 00:34:30] And get you to do it the wrong way too because they don't have an expectation. They don't have a blueprint or a program downloaded of how things are supposed to be.
+[00:34:30 – 00:34:32] The right leader.
+[00:34:32 – 00:34:39] Can try and install these programs into people. But to save time, energy, effort, heartache, problems, stress.
+[00:34:40 – 00:34:44] You want to align with people who have the right programming from the get-go.
+[00:34:44 – 00:34:46] And the right programming is the right expectation.
+[00:34:47 – 00:34:51] that aligns with their desire. When I tell you I'm gonna be the biggest in the world in my space,
+[00:34:51 – 00:35:01] If you saw me work and you saw my work ethic and you know I'm up at 3 a.m. and you know I'm fucking grinding and you know I'm here every day and I show up and I deliver and if following my diet.
+[00:35:01 – 00:35:04] And you see my habits are consistent for months and years and years and years.
+[00:35:05 – 00:35:07] You go, this guy believes it.
+[00:35:08 – 00:35:12] But if I tell you, yeah, guys, I'm going to be the best basketball player of all time.
+[00:35:12 – 00:35:13] And I'm set.
+[00:35:14 – 00:35:17] And I eat fucking cheeseburgers and milkshakes and pizza all day long.
+[00:35:18 – 00:35:22] What do you really think? You're like, this person's delusional. It's not delusion.
+[00:35:22 – 00:35:23] It's
+[00:35:23 – 00:35:27] It's just to, again, my goal wasn't actually to be the best of all time.
+[00:35:27 – 00:35:35] In that case, my goal was to just look like I'm the best of all time. Right. And that was always something people tell me when they meet me: you know, I didn't realize.
+[00:35:36 – 00:35:40] You don't have a very big ego. I really don't have a big ego. If someone gives me constructive criticism,
+[00:35:41 – 00:35:42] I want it.
+[00:35:42 – 00:35:48] I want to improve. And the reason I want the feedback is because feedback is the only way to improve.
+[00:35:48 – 00:35:50] The reason I'm so good at basketball is because when I shoot.
+[00:35:51 – 00:36:02] And I missed. I know why I missed. Was it short? Was it long? Was it to the left or the right? If it was to the left or the right, it means my elbow wasn't straight. My follow through was off, or the way I held the ball and the release was off. Why was the release off?
+[00:36:03 – 00:36:14] Maybe my palm was on the ball. Something got interfered. So if it was left or right, if it's short, for example, it doesn't go into the basket, fall short, or it's long, I know it has to do with my legs and power.
+[00:36:14 – 00:36:32] If it goes in the basket but doesn't go in, it like hits the back of the rim or you know isn't really like falling, it means that there's no angle, there's no arc, and there's no arc because, again, no legs and it's not fluid. It means I'm coming up, I'm not fluid, so I'll stop, shoot, and come rather than it being all one motion.
+[00:36:33 – 00:36:35] Right. I know why I missed and I can adapt instantly.
+[00:36:36 – 00:36:37] Same thing happens.
+[00:36:38 – 00:36:42] in business same thing happens when you're working with people feedback is
+[00:36:42 – 00:36:42] Cheese.
+[00:36:43 – 00:36:46] To have the feedback, you have to know what to look for.
+[00:36:46 – 00:36:49] So here's what I want you to look for when you start meeting people.
+[00:36:49 – 00:36:50] First thing you look for.
+[00:36:51 – 00:36:53] is are they incongruent?
+[00:36:54 – 00:36:55] For instance,
+[00:36:55 – 00:36:56] You'll find
+[00:36:56 – 00:36:57] That
+[00:36:57 – 00:36:59] We're always pretty congruent.
+[00:36:59 – 00:37:01] With our beliefs.
+[00:37:01 – 00:37:03] and our behavior.
+[00:37:03 – 00:37:04] We're not always congruent.
+[00:37:05 – 00:37:08] with our beliefs, behavior, and what we say we want.
+[00:37:09 – 00:37:20] What someone says they want usually has nothing to do with what they really want. Their desire has nothing to do with their actual expectations. So if you meet a fat person, I just bring this example up because it's so common.
+[00:37:21 – 00:37:23] You know, you meet a fat person.
+[00:37:23 – 00:37:26] They tell you, yeah, you know, I'm only having one Coca-Cola a day.
+[00:37:27 – 00:37:35] I don't have a, I haven't had a regular Coca Cola, like not diet or any of that, just a regular Coca-Cola, probably six or seven years.
+[00:37:35 – 00:37:38] Like a regular soda I have not drank in maybe six or seven years.
+[00:37:39 – 00:37:41] But you can see that their beliefs are, it's not that unhealthy.
+[00:37:42 – 00:37:43] Right. Oh, I don't like vegetables.
+[00:37:44 – 00:37:47] What do you mean you don't like vegetables? Yeah, I don't eat vegetables. So what do you eat?
+[00:37:47 – 00:37:56] Yeah, I like pasta and bread, but I only eat that much, though. It's just a little bit. As they pour oil and all that shit in their food, right? It's a lack of understanding.
+[00:37:56 – 00:38:00] A lack of education on what they're getting. So you could tell them it's unhealthy.
+[00:38:00 – 00:38:07] But do they really understand the concept of calories? Do they really understand the concept of the consequences of eating that? They don't.
+[00:38:07 – 00:38:08] Then that's why they're fat.
+[00:38:09 – 00:38:11] just education alone.
+[00:38:11 – 00:38:13] can improve someone's expectations instantly.
+[00:38:14 – 00:38:31] Because they may not know that having they could do everything right and have one Coke every day in the morning and one Coke at night and gain weight, but everything else is perfect. And they didn't realize that that one thing is fucking them up. So when you educate someone, some people are obviously closer to the change than others, when you educate someone enough.
+[00:38:31 – 00:38:33] They're willing to make the change and they know. Now,
+[00:38:33 – 00:38:38] Unconsciously, they might understand if I eat less, I'll I'll lose weight or, you know, all that stuff.
+[00:38:38 – 00:38:41] But the more you're aware of it.
+[00:38:42 – 00:38:45] the more you can actually program the mind.
+[00:38:45 – 00:38:54] So, what I'd like you guys to do briefly is to think for your second. And remember, I said yesterday: what fear is in your way? I would try and get awareness as to.
+[00:38:55 – 00:38:55] Mm-hmm.
+[00:38:56 – 00:38:57] I'm not sure.
+[00:38:58 – 00:38:59] Power off.
+[00:39:00 – 00:39:01] All right.
+[00:39:01 – 00:39:05] Anyways, I would like you guys to get awareness as to why.
+[00:39:05 – 00:39:06] Right.
+[00:39:06 – 00:39:06] Yeah.
+[00:39:12 – 00:39:12] Nice.
+[00:39:13 – 00:39:19] I like it the awareness as to why you're not where you want to be, right? What are the beliefs that are incongruent?
+[00:39:19 – 00:39:21] to the thing you want. For example,
+[00:39:21 – 00:39:27] I believe I can't have a good time with, you know, on a diet. I can't, I can't get a love if I'm on a diet.
+[00:39:27 – 00:39:29] Right. That's a really fucked belief.
+[00:39:29 – 00:39:36] And that belief is going to really interfere with what I want. So take your values for a moment and ask yourself, which values are in the way of what you want.
+[00:39:40 – 00:39:41] For instance.
+[00:39:41 – 00:39:42] Freedom.
+[00:39:44 – 00:39:46] Right. Like, I want more freedom. Okay.
+[00:39:48 – 00:39:48] Well
+[00:39:49 – 00:39:52] I want more freedom, but I'm worried if I quit my job, I'll make less money.
+[00:39:52 – 00:39:54] So I lose my freedom.
+[00:39:55 – 00:40:01] So obviously, that belief right there that you need to have a job to have freedom, you need to have a good job to have freedom.
+[00:40:01 – 00:40:09] That's going to be in the way of what you want if you want to be an entrepreneur, right? Similarly, you know, you meet someone who only dates horrible people.
+[00:40:11 – 00:40:12] Now what?
+[00:40:12 – 00:40:13] Well
+[00:40:13 – 00:40:17] They believe that the only way they could be loved is if they date someone.
+[00:40:18 – 00:40:21] Not good enough. Someone who makes them feel good enough.
+[00:40:21 – 00:40:23] Right, so they don't feel good enough themselves.
+[00:40:23 – 00:40:25] So they want to date someone who's also pretty shit.
+[00:40:26 – 00:40:29] Because the second they date someone who's above them, what does it force them to do?
+[00:40:29 – 00:40:32] forces them to look at all the problems they have.
+[00:40:32 – 00:40:36] And the reason they don't want to look at all the problems they have is because do they believe they could change?
+[00:40:37 – 00:40:37] No.
+[00:40:38 – 00:40:41] So if they don't believe that in the future there can be better.
+[00:40:41 – 00:40:44] then what what if if they know they're not good enough
+[00:40:45 – 00:40:48] then what is their anticipation of what will happen in the future?
+[00:40:48 – 00:40:50] Eventually, you're going to leave.
+[00:40:50 – 00:40:56] So, their future is like, well, anyways, it's not going to work for me. I might as well be with someone who won't leave. Now, the irony is.
+[00:40:56 – 00:40:58] The better a person is.
+[00:40:58 – 00:41:00] the more likely they are to stay.
+[00:41:01 – 00:41:02] And the shittier the person is.
+[00:41:03 – 00:41:06] The more that shit will come true. Again, self-fulfilling prophecy.
+[00:41:06 – 00:41:09] But they don't know that. And they don't know that.
+[00:41:09 – 00:41:13] Because in their mind, the expectation, the blueprint is
+[00:41:14 – 00:41:15] If I'm with something worthwhile.
+[00:41:16 – 00:41:17] It's too good for me.
+[00:41:20 – 00:41:21] So
+[00:41:21 – 00:41:22] In the past.
+[00:41:23 – 00:41:24] I used to have another issue.
+[00:41:26 – 00:41:29] And the issue was, and I remember I remember the moment I changed.
+[00:41:30 – 00:41:31] The issue was
+[00:41:31 – 00:41:33] that I felt not good enough.
+[00:41:34 – 00:41:36] And in order to be good enough.
+[00:41:37 – 00:41:40] I had to look better. I had to be in better shape.
+[00:41:41 – 00:41:42] I had to
+[00:41:42 – 00:41:45] You know, be a better athlete. I had to be smarter.
+[00:41:45 – 00:41:49] And all these beliefs were cool, but I got smarter.
+[00:41:49 – 00:41:50] I got in better shape.
+[00:41:51 – 00:41:52] I became a better athlete.
+[00:41:52 – 00:41:54] I still didn't feel good enough.
+[00:41:54 – 00:41:57] And then I trained my brain to realize that I could be fat.
+[00:41:58 – 00:41:58] and have nothing.
+[00:41:59 – 00:42:02] And I'm more than enough, right? I trained myself to have the confidence in the way I did that.
+[00:42:03 – 00:42:06] is I got the feedback. Oh wow, look, you lost the weight.
+[00:42:06 – 00:42:11] Oh look, you became the athlete. Oh look, you really are super intelligent.
+[00:42:11 – 00:42:13] And you still
+[00:42:13 – 00:42:17] didn't get the girl. You still weren't popular.
+[00:42:17 – 00:42:22] Okay, so what does that mean? Well, it means I didn't like how I felt and I did all the work.
+[00:42:22 – 00:42:26] So I'm like, well, if I did all the hard work, what else is left to change? I changed the physical.
+[00:42:27 – 00:42:30] Change the mental. Change the mental felt amazing. And now
+[00:42:31 – 00:42:32] that problem there
+[00:42:33 – 00:42:36] Is that I didn't really care about the health anymore. I didn't care about the athleticism.
+[00:42:37 – 00:42:38] So for a little bit, I got fat.
+[00:42:38 – 00:42:41] Right. It was like, I almost wanted to prove to myself.
+[00:42:41 – 00:42:45] On an extreme sense, that you don't have to be lean. You know, I have a, he's not my friend anymore, but.
+[00:42:46 – 00:42:48] He was my friend. His name is Owen.
+[00:42:48 – 00:42:49] And Owen.
+[00:42:49 – 00:42:53] what is fat. We go eat dinner, he'll order four or five entrees.
+[00:42:54 – 00:42:58] Just because he wants to try them a lot. He's the first person I ever saw order more than one entree.
+[00:42:58 – 00:43:07] I ordered one entree and I'm like, fuck, I ate too much. He orders four or five. We'll take it to go eat it, have a little bit of all. What he really is having, even though he's like, well, I'm not finishing it in his mind.
+[00:43:07 – 00:43:11] There is some left of this entree, some left of this entree, some left of that entree.
+[00:43:11 – 00:43:14] But if you were to combine it all together, he still had two entrees.
+[00:43:15 – 00:43:15] Right?
+[00:43:16 – 00:43:17] And
+[00:43:17 – 00:43:26] He's fat and he goes, Well, you know, it doesn't matter. And the truth is, look at the feedback he's getting. He's getting positive feedback, but that creates a negative internal feedback loop. And I'll tell you what that means in a minute.
+[00:43:26 – 00:43:28] He has a hot girl with him or two hot girls.
+[00:43:29 – 00:43:30] He's in it.
+[00:43:30 – 00:43:31] He makes money.
+[00:43:31 – 00:43:41] He proves the point because all these guys that put in the work that, you know, you teach these guys dating, all these guys that put in the work to get in the best shape of their life, all these guys that put in the work to be super rich.
+[00:43:41 – 00:43:42] Aren't getting the girls.
+[00:43:43 – 00:43:44] He thought
+[00:43:45 – 00:43:47] you know, and he's eating like a pig.
+[00:43:48 – 00:43:48] And yet
+[00:43:49 – 00:43:52] All the girls like him and he makes plenty of money and the guys keep wanting to pay him. So his brain has this.
+[00:43:53 – 00:43:58] I call it a positive feedback loop, but it's actually a negative feedback loop because it's reinforcing your negative behavior.
+[00:43:59 – 00:44:02] Right. So he's getting positive reinforcement for a negative habit.
+[00:44:02 – 00:44:06] Any negative habit that's born has received positive reinforcement.
+[00:44:06 – 00:44:08] And the positive reinforcement.
+[00:44:08 – 00:44:12] is could be security, it could be safety. Give you an example.
+[00:44:13 – 00:44:15] If you don't feel good enough and you get someone out of your league.
+[00:44:16 – 00:44:16] Okay.
+[00:44:17 – 00:44:18] You go okay, whatever.
+[00:44:19 – 00:44:20] Suddenly
+[00:44:20 – 00:44:21] They leave you.
+[00:44:22 – 00:44:23] What does it do to your insecurity?
+[00:44:25 – 00:44:29] It puts salt and lemon and acid into your goddamn fucking womb.
+[00:44:30 – 00:44:34] Right? It makes it horrible. But if someone who wasn't that good anyways leaves you, what happens?
+[00:44:36 – 00:44:37] Uh
+[00:44:38 – 00:44:39] I can replace them.
+[00:44:40 – 00:44:41] There's another one.
+[00:44:41 – 00:44:43] Right. So someone who doesn't feel good enough.
+[00:44:43 – 00:44:46] How often do you think they find someone who they think is better?
+[00:44:48 – 00:44:50] Not that often. And how often do you have a chance with someone?
+[00:44:51 – 00:44:52] Who do they think is better than that?
+[00:44:53 – 00:44:54] Not that often.
+[00:44:54 – 00:44:57] And because they constantly run into people.
+[00:44:57 – 00:45:05] who are on their level or even below them, right? You'll oftentimes be like, why, why is that? How did that guy get that girl, right?
+[00:45:06 – 00:45:09] Like I don't know if you've ever seen that, but a lot of guys have this. They're like looking at a girl and they go
+[00:45:10 – 00:45:11] How did that guy?
+[00:45:12 – 00:45:13] loser looking guy.
+[00:45:13 – 00:45:14] Did that grow?
+[00:45:15 – 00:45:16] Well
+[00:45:16 – 00:45:19] The truth is, he dated that girl.
+[00:45:19 – 00:45:21] Because of the fact that he's a loser.
+[00:45:22 – 00:45:22] And
+[00:45:23 – 00:45:24] She felt good enough for him.
+[00:45:24 – 00:45:26] So now he got hurt.
+[00:45:26 – 00:45:27] Then you come along.
+[00:45:28 – 00:45:35] And what does she do? She goes and fucks two more losers while talking to you. She goes and treats you like shit, disrespects you, lies to you.
+[00:45:36 – 00:45:42] Because at the end of the day, she goes, he's going to do it anyways. Like this guy here, thinking about their map, their map is I'm a piece of shit.
+[00:45:43 – 00:45:44] First that I'm with is a piece of shit.
+[00:45:45 – 00:45:49] You come along, you're not a piece of shit. In their mind, they're like, oh, he's just a bigger piece of shit.
+[00:45:50 – 00:45:51] He's the biggest.
+[00:45:51 – 00:46:04] And he's going to treat me the worst because they can't understand what good is in their mind. It does not exist. Their expectation: I'm not good enough, I don't deserve that. So, no one would treat me that way. And what they're really saying is.
+[00:46:04 – 00:46:09] You don't deserve it. I'm going to project that on you and I'm going to treat you like so. Anyone who tells you they're not good enough.
+[00:46:09 – 00:46:12] is really telling you I'm about to treat you like you're not good enough.
+[00:46:13 – 00:46:21] So it's the worst type of person to do business with, worst type of person to actually be around or date. The second someone says, you know, I don't, you know, like, why do you like me?
+[00:46:22 – 00:46:22] Run.
+[00:46:24 – 00:46:25] Ron, I'm serious. Ron.
+[00:46:26 – 00:46:35] Horrible, horrible, horrible type of person. Now, when you look, it's not because they're bad people, but the way they're going to treat you is pretty horrible. Now, the thing that I want you guys to do.
+[00:46:35 – 00:46:39] is to get clear on exactly what you want.
+[00:46:40 – 00:46:41] And then the discipline.
+[00:46:42 – 00:46:44] is to not do anything.
+[00:46:44 – 00:46:46] incongruent to that.
+[00:46:46 – 00:46:47] I want to lose weight.
+[00:46:48 – 00:46:53] I will not take a goddamn bite of a dessert. I do not give a fuck what happens.
+[00:46:53 – 00:46:57] I'm going to the gym every day. I do not give a fuck what happens.
+[00:46:57 – 00:47:03] I want to make more money. I'm going to hop on fucking calls and be perfect on everything every day.
+[00:47:03 – 00:47:09] I do not give a fuck what happens. Kobe Bryant did not give a fuck. You know, he talked about flu games for Michael Jordan.
+[00:47:09 – 00:47:12] I'm willing to bet Kobe Bryant had fucking flues playing basketball.
+[00:47:13 – 00:47:14] But we never heard about it.
+[00:47:17 – 00:47:18] In his mind.
+[00:47:19 – 00:47:22] It didn't matter if he had a flu. It didn't matter.
+[00:47:22 – 00:47:29] If he didn't feel good, it didn't matter if he broke his fingers or his toes or had a sprained ankle, he didn't give a fuck.
+[00:47:29 – 00:47:32] Because you was relentless. That is discipline.
+[00:47:33 – 00:47:37] only way you'll have discipline is if you have the confidence to believe you'll get what you want one
+[00:47:37 – 00:47:38] Two?
+[00:47:38 – 00:47:43] regardless of what feedback you get that is incongruent to what you want.
+[00:47:43 – 00:47:48] You ignore it. The only feedback you listen to are things that show you you're getting closer.
+[00:47:49 – 00:47:50] Anything else?
+[00:47:51 – 00:47:52] Ignored.
+[00:47:52 – 00:47:53] Anything else ignored?
+[00:47:54 – 00:47:58] And the way to look at this is, oh, hey, well, my bank account is going down.
+[00:47:58 – 00:47:59] My goal is for it to go up.
+[00:48:00 – 00:48:04] Doesn't matter. I'm not focused on the number going down. I'm ignoring the feedback.
+[00:48:04 – 00:48:07] Like I'm aware of it. I'm strategizing.
+[00:48:07 – 00:48:10] I understand that I need to do something different. I understand I need to do more.
+[00:48:10 – 00:48:14] But I also know that it doesn't matter. No need to be stressed because it will work out at the end.
+[00:48:15 – 00:48:21] And the end could be in a week or two weeks. Then, once it works out there, what's the next step? It's always about foresight.
+[00:48:21 – 00:48:24] foresight looking into the future and saying
+[00:48:24 – 00:48:35] What does my future look like? And how am I going to be disciplined in the present to make sure it happens? The way you program your brain is to envision a future you want that is so enticing, you feel it.
+[00:48:35 – 00:48:37] And when you could feel it in your body.
+[00:48:38 – 00:48:39] That becomes your identity.
+[00:48:40 – 00:48:40] Anytime.
+[00:48:41 – 00:48:46] You start doing something incongruent, that tells you unconsciously your blueprint is something else.
+[00:48:46 – 00:48:51] The moment you reach a certain benchmark, your body looks a certain way, your income looks a certain way, and you look.
+[00:48:51 – 00:48:52] And it's not
+[00:48:53 – 00:48:55] what you you're you're not seeing that anymore
+[00:48:56 – 00:48:59] Suddenly it changes. The way you feel about everything changes.
+[00:49:00 – 00:49:01] No, no, no, no.
+[00:49:01 – 00:49:16] Go back to that old image and push it down. Make it even better. Make yourself look stronger. Make yourself look leaner. Make your bank account a little bit bigger. Push it down the line. You always need a goal. You always need a new expectation, or you will ruin your identity.
+[00:49:16 – 00:49:19] That's why people go like this. Why does the stock market look like this?
+[00:49:21 – 00:49:23] Because ultimately people are inconsistent.
+[00:49:24 – 00:49:25] Ultimately, patterns change.
+[00:49:26 – 00:49:28] What happens when people get to the top? They get greedy.
+[00:49:29 – 00:49:30] Right? More.
+[00:49:31 – 00:49:34] more. They start changing the strategies they had that made them the money in the first place.
+[00:49:35 – 00:49:36] That was it all.
+[00:49:36 – 00:49:37] They gamble.
+[00:49:38 – 00:49:42] Same thing happens in every area. The sabotage occurs.
+[00:49:43 – 00:49:45] because someone reaches a certain point.
+[00:49:45 – 00:49:47] that they didn't plan for.
+[00:49:47 – 00:49:49] I didn't plan for anything beyond this.
+[00:49:49 – 00:49:52] If I didn't plan for it, I could probably die.
+[00:49:53 – 00:49:54] or get hurt seriously bad.
+[00:49:55 – 00:49:57] Need to sabotage.
+[00:49:57 – 00:50:05] Back to an area I understand. If your whole life you lived in a tribe, think about your DNA, you lived in a tribe.
+[00:50:05 – 00:50:06] And you're walking around a community.
+[00:50:07 – 00:50:09] And these are your borders. These are your walls.
+[00:50:10 – 00:50:13] Suddenly you fall outside the wall.
+[00:50:13 – 00:50:16] And you look at new things you've never seen before.
+[00:50:17 – 00:50:21] And there's woods, there's forests, there's things in bushes you've never seen.
+[00:50:21 – 00:50:23] Odds are you're coming back into the wall.
+[00:50:23 – 00:50:25] because you've never explored that territory.
+[00:50:26 – 00:50:33] You don't want to leave it because you don't know how dangerous it is, right? Even unconsciously, that visualization, there is some fear involved in, oh, what could be there?
+[00:50:34 – 00:50:41] What could be there? What could hurt me? Right. And if you look now at what's fucked up, why does someone, for example, an Instagram model?
+[00:50:41 – 00:50:45] cared more about how other people, random strangers, look at her.
+[00:50:45 – 00:50:47] than her own family or own friends.
+[00:50:49 – 00:50:50] 'Cause this didn't exist.
+[00:50:51 – 00:50:56] In our DNA. So it tricks their brain into thinking that their tribe is Instagram.
+[00:50:58 – 00:51:00] that Instagram is their friend.
+[00:51:01 – 00:51:05] And that the only thing that matters is the opinions of other people on Instagram.
+[00:51:06 – 00:51:08] It's very, very, very different.
+[00:51:08 – 00:51:12] And the problem there is that this is the future of social conditioning.
+[00:51:13 – 00:51:16] Is it's all going to be status based off of other people's opinions.
+[00:51:17 – 00:51:21] So for the first time, the only way to really get like, I'll give you an example.
+[00:51:21 – 00:51:26] I was talking to my buddy Chase Hughes yesterday, and we said, the more, the bigger a city.
+[00:51:27 – 00:51:28] the lower the empathy.
+[00:51:28 – 00:51:33] And the smaller your town, the smaller your group of friends, the smaller your community.
+[00:51:33 – 00:51:34] the higher your empathy.
+[00:51:35 – 00:51:36] So if I'm in a small town,
+[00:51:37 – 00:51:39] And I cut you off.
+[00:51:39 – 00:51:41] Everybody's going to know about it in an hour.
+[00:51:42 – 00:51:43] If you're in LA.
+[00:51:43 – 00:51:44] You cut me off.
+[00:51:45 – 00:51:48] You fuck off, I fuck off, never see each other ever again the rest of our lives.
+[00:51:48 – 00:51:50] Right. So
+[00:51:50 – 00:51:53] It's just what happens and social media.
+[00:51:54 – 00:51:55] makes empathy.
+[00:51:55 – 00:51:58] Almost non-existent. So you have a you have a class.
+[00:51:59 – 00:52:03] of narcissistic individuals on a level we've never seen before.
+[00:52:04 – 00:52:04] Um
+[00:52:04 – 00:52:06] their expectation.
+[00:52:07 – 00:52:09] Remember this, their expectation.
+[00:52:09 – 00:52:13] Is not to make other people have a good life, their expectation.
+[00:52:14 – 00:52:15] is to look good.
+[00:52:15 – 00:52:17] As long as they look good.
+[00:52:17 – 00:52:21] They'll treat you good. Whatever makes them look good. So sometimes you'll meet someone on Instagram.
+[00:52:21 – 00:52:27] They don't care about you. They only care about how you make them look to the people they care about.
+[00:52:29 – 00:52:30] Again.
+[00:52:30 – 00:52:33] Understanding expectation versus desire.
+[00:52:33 – 00:52:36] Very different. I desire to have a real connection and love.
+[00:52:36 – 00:52:39] But unconsciously, my expectation is to get validation on this here.
+[00:52:40 – 00:52:45] So, you know, when you are picking a partner that really is good, either pick one older before Instagram days.
+[00:52:46 – 00:52:48] or which should be easier for Steve.
+[00:52:48 – 00:52:50] or pick someone who doesn't even have an Instagram.
+[00:52:50 – 00:52:54] right i know i threw that little piece of advice it's kind of unrelated but i want to connect the thoughts for you
+[00:52:55 – 00:52:56] I still like the practicality.
+[00:52:56 – 00:53:00] You know, if you're looking at someone like I'm on Instagram, but Instagram makes me money.
+[00:53:00 – 00:53:05] And as much money as it makes me, I'm not on it that much. People always like, oh, Marcel, I was talking on Instagram. I'm like.
+[00:53:07 – 00:53:10] You weren't talking to me. You know, you're talking to my team. So.
+[00:53:10 – 00:53:14] Someone's like, wait, I told you this on Instagram. I'm like, yeah, you did tell me that.
+[00:53:14 – 00:53:15] Did that remind me?
+[00:53:15 – 00:53:18] You know, I feel bad, but
+[00:53:18 – 00:53:21] What am I supposed to do? Respond to 800 people a day?
+[00:53:22 – 00:53:23] You know what I mean?
+[00:53:23 – 00:53:24] But again
+[00:53:26 – 00:53:26] Don't
+[00:53:27 – 00:53:28] Don't get caught up.
+[00:53:28 – 00:53:31] In desire. We confuse ourselves.
+[00:53:31 – 00:53:33] Oh, this is what I actually want.
+[00:53:33 – 00:53:33] It's not
+[00:53:34 – 00:53:35] What you expect is what you want.
+[00:53:35 – 00:53:44] So anytime you start sabotaging or getting the way, no, it's because there's a contradiction, incongruence to the expectation, desire.
+[00:53:44 – 00:53:48] Um next week, Wednesday, I have depositions. So we're going to move this to Friday.
+[00:53:49 – 00:53:51] So next week, Friday, we'll do our call.
+[00:53:51 – 00:53:56] instead of Wednesday, just because they got their positions. I'm not sure if I told you guys what happened.
+[00:53:56 – 00:53:58] But uh 2020 I had a Halloween party.
+[00:53:59 – 00:54:02] I'd go upstairs to change because it was freezing and I had a shirtless costume.
+[00:54:02 – 00:54:04] I come back down like 20 minutes later.
+[00:54:05 – 00:54:07] It's like 40 extra people in my house.
+[00:54:07 – 00:54:09] I start taking everybody out.
+[00:54:10 – 00:54:12] Someone starts a fight outside.
+[00:54:13 – 00:54:16] Outside, not even my house, not even my driveway outside on the street.
+[00:54:16 – 00:54:22] This kid fights three kids, starts stabbing them, cuts one in the ear, cuts one in the arm, stabs one in the chest.
+[00:54:23 – 00:54:27] Abdullah, my chef comes to me. He's like, yo, someone just got stabbed outside. I run outside.
+[00:54:27 – 00:54:29] Everyone's videotaping it, filming it.
+[00:54:30 – 00:54:34] I look at this kid. I'm like, guys, call 911. They don't call.
+[00:54:34 – 00:54:35] I call.
+[00:54:35 – 00:54:47] On my own house, I call 911: Hey, someone just got stabbed, come save his life. I instruct my buddy Elyor to stop his bleeding because all his friends are like, Hey, look, hey, like, what happened? Or he got stabbed, picks up the thing, all of a sudden goes, Look, look at this, right?
+[00:54:48 – 00:54:49] And uh
+[00:54:50 – 00:54:50] Side of me?
+[00:54:51 – 00:54:54] You know, guys dying. I saved his life and now he's suing me.
+[00:54:55 – 00:54:56] As if it's my fault. So
+[00:54:57 – 00:55:00] I have depositions for this. Uh it is what it is, but
+[00:55:01 – 00:55:05] Unfortunately, I got to deal with that. However, we will lock this in on Friday.
+[00:55:06 – 00:55:14] What questions do we have about today's call or in general you guys want to ask about? Obviously, let me remind you: get your tickets to Bahamas. I know, Stephen, you already got it.
+[00:55:14 – 00:55:19] Keep on make sure you get yours. And yeah, I mean, it's all locked in, so pretty exciting times.
+[00:55:21 – 00:55:21] Yeah.
+[00:55:22 – 00:55:23] Any questions?
+[00:55:23 – 00:55:39] Marcel, how did you change your sort of fundamental belief? You said, you know, you did all the stuff and then you still had that feeling of not being good enough. Like, how did you change that? Your belief will change when you can envision other people liking you and you can envision other girls wanting you and you can envision a habit of someone who does it.
+[00:55:39 – 00:55:42] And then there's a small fear that's left.
+[00:55:42 – 00:55:49] And the second you conquer it, once you've envisioned this for long enough, a week, two weeks, then the second you go up to someone and they reject you.
+[00:55:49 – 00:55:54] It's so contradictory to what you've been imagining, your confidence goes up to the roof instantaneous.
+[00:55:57 – 00:55:57] Makes sense?
+[00:55:58 – 00:56:01] Instead of envisioning all the time them rejecting you, not wanting you, not liking you.
+[00:56:01 – 00:56:08] You envision the opposite. They're obsessed with you. You just don't have time for this. Oh my God. And really envision that.
+[00:56:08 – 00:56:09] And then
+[00:56:09 – 00:56:14] Face your fear, go up to someone and instantly you'll be confident. Stephen, you're muted if you want to say something.
+[00:56:17 – 00:56:18] Some muted weight.
+[00:56:19 – 00:56:20] Mm.
+[00:56:20 – 00:56:22] There we go. Yeah. Can you hear me now?
+[00:56:22 – 00:56:23] Yes.
+[00:56:24 – 00:56:30] All right, for me, how this kind of ties in with where I'm at.
+[00:56:30 – 00:56:31] Um is
+[00:56:32 – 00:56:39] I'm looking for some people to do some things and be congruent with my goals and aspirations and my vision.
+[00:56:40 – 00:56:57] And a lot of people talk, you know, big talk, but it becomes very apparent that they can't walk the talk. And so that becomes a level of frustration after I spent some time and energy trying to, you know, bring them on board and here's where we're going. And are you on board with that?
+[00:56:57 – 00:57:07] And I find that to be more and more difficult. And I know the discussion today was centered around relationships or looking for.
+[00:57:08 – 00:57:12] You know, somebody to be in a relationship with. And the same thing kind of holds.
+[00:57:12 – 00:57:20] I mean, the same dynamic holds true with finding employees or people you want to do things, even though you pay them.
+[00:57:21 – 00:57:25] Getting them to really be congruent with where you're going.
+[00:57:25 – 00:57:25] S
+[00:57:26 – 00:57:31] For me anyway, it it seems to have been or is being a challenge.
+[00:57:32 – 00:57:34] Uh the ultimate
+[00:57:34 – 00:57:35] Tests
+[00:57:35 – 00:57:36] for employees.
+[00:57:37 – 00:57:40] Is to tell them that you don't have money.
+[00:57:40 – 00:57:41] You will.
+[00:57:42 – 00:57:44] And they're free to quit. You'll pay them everything they owe now.
+[00:57:45 – 00:57:46] Let's do them now.
+[00:57:46 – 00:57:53] Or if they're willing to hang tight and go all in, you know, you reward them greatly when you guys get there.
+[00:57:53 – 00:58:01] You know, you need their help right now, and you're not going to be judged. You're not going to judge them, you're not going to be upset if they have to leave. And then, if you see loyalty,
+[00:58:02 – 00:58:03] Good employee.
+[00:58:03 – 00:58:05] This loyalty I fire and then I replace.
+[00:58:06 – 00:58:10] Right. If it's only transactional, I don't want to work with them.
+[00:58:12 – 00:58:13] Yeah.
+[00:58:15 – 00:58:18] Like it's kind of like me if all I cared about was the money.
+[00:58:18 – 00:58:20] I don't think anyone will want to work with me.
+[00:58:22 – 00:58:22] Right.
+[00:58:23 – 00:58:24] Right. Oh yeah. Oh.
+[00:58:25 – 00:58:26] Yeah, you guys uh
+[00:58:27 – 00:58:29] You guys only paid 100K?
+[00:58:30 – 00:58:30] Nope.
+[00:58:31 – 00:58:32] Sorry everybody.
+[00:58:33 – 00:58:33] Yep.
+[00:58:34 – 00:58:44] You know, like it's horrible. So, any transactional behavior indicates that they don't believe in the vision, they only believe in themselves. Their future idea of what's to come isn't about you or the company.
+[00:58:45 – 00:58:46] It's about them.
+[00:58:46 – 00:58:57] Yeah. No, and that that's that's very true. And when I talk to people, the first things they want to talk about is: when do I get paid and how much do I get paid and what benefits do I get?
+[00:58:57 – 00:58:58] around around people.
+[00:58:58 – 00:59:13] Yeah, well, and that's that you know, that's true. They are the wrong people, and so you filter through enough of these people that you can see them almost coming. That you know, this is where their mindset is. It isn't about their career choices or their really their goals or aspirations, it's all about
+[00:59:14 – 00:59:23] Getting paid now? When can I get paid? What day is payday? Well, we just started talking about whether you're even going to fit in this role or not. And you want to know what day is payday?
+[00:59:24 – 00:59:27] All right, next.
+[00:59:27 – 00:59:30] If I can't be friends with them, I can't hurry them.
+[00:59:31 – 00:59:32] Yeah.
+[00:59:33 – 00:59:39] Well, in today's world, it seems like it's hard to find people who aren't all wrapped around emotions.
+[00:59:41 – 00:59:42] Yeah, it's
+[00:59:43 – 00:59:46] It really comes down to what the person sees.
+[00:59:47 – 00:59:48] And in smaller towns.
+[00:59:49 – 00:59:54] You're going to find more people who are transactional, ironically, in terms of business, because they have limiting beliefs around money.
+[00:59:54 – 00:59:59] When you talk about love or intimacy, you might find a better quality girl in a small town.
+[01:00:00 – 01:00:00] But in terms of
+[01:00:01 – 01:00:02] Business and employees.
+[01:00:03 – 01:00:05] The more competitive the environment.
+[01:00:05 – 01:00:09] the more they have to bring more value than just transactional relationships.
+[01:00:11 – 01:00:16] Yeah. That raises another question in terms of
+[01:00:17 – 01:00:28] I'm sure you've done this multiple times. You look at somebody and you out of the shoot, you go, what value, if I were to hire you, what value do you equip?
+[01:00:29 – 01:00:29] 'Kay.
+[01:00:33 – 01:00:33] So
+[01:00:33 – 01:00:35] And what would you expect their response to be?
+[01:00:36 – 01:00:54] You got cut off. You said what value, and then you got cut off for about if you're interviewing, let's just say I'm interviewing whether it's for a date or an employee, either one I suppose this applies to. And you say, All right, you know, here's here's what I'm looking for. What value do you bring to the table?
+[01:00:54 – 01:00:56] If they're unable to answer that.
+[01:00:58 – 01:01:00] What's your perception?
+[01:01:04 – 01:01:06] What value do you bring to? Is that the first question you asked?
+[01:01:06 – 01:01:18] No, not in the first question, but as you get into a conversation and you know, all comes down to you know money that you got that they're following. So then I say in return.
+[01:01:18 – 01:01:37] In return, what value do you bring? If I pay you that money, what can I expect value in return for my investment in what I'm paying you? Well, it means that they just want the money. They're talking to you for the money, and they're not really thinking about the result. That's really what it means. Yeah. And generally speaking, that's how most people think: is that.
+[01:01:37 – 01:01:49] They're not thinking, they're thinking, I just need to get paid this because I need to get paid it because my lifestyle is what it is. It is, therefore, they're worth that because in their mind, they've said, well, my bills are this, I have to get paid that.
+[01:01:49 – 01:01:53] But their value could be 180 degrees off that.
+[01:01:55 – 01:02:01] The ultimate lens I look at it through is selfishness versus selflessness.
+[01:02:02 – 01:02:02] Mm-hmm.
+[01:02:05 – 01:02:08] Selfish people, I will not hire because they're lower status.
+[01:02:12 – 01:02:15] So you ask them, and I'll do anything for them.
+[01:02:16 – 01:02:16] Right.
+[01:02:16 – 01:02:20] Yeah, I know. And that's true. And it's hard to find that quality in people today.
+[01:02:21 – 01:02:23] You just got to be very picky.
+[01:02:24 – 01:02:27] with selfish and not selfish. And the second you see they're selfish,
+[01:02:28 – 01:02:28] Got it.
+[01:02:29 – 01:02:29] Yeah.
+[01:02:31 – 01:02:32] That's it, pretty much.
+[01:02:32 – 01:02:34] Yeah. Yeah. Um
+[01:02:35 – 01:02:38] Here's some homework for you, especially you, Stephen, in this regard.
+[01:02:38 – 01:02:41] Uh don't obviously go around hiring a bunch of people but
+[01:02:41 – 01:02:43] When you meet people now,
+[01:02:43 – 01:02:45] Ask yourself if this is someone you would hire.
+[01:02:46 – 01:02:47] Are they selfish or selfless?
+[01:02:48 – 01:02:53] Start to rate them, people around you. How selfish or selfless are these people? Tamir Kishan.
+[01:02:53 – 01:02:55] Who's selfish or selfless around him?
+[01:02:56 – 01:02:56] You know?
+[01:02:57 – 01:02:59] And if you could see that, you go, okay.
+[01:03:00 – 01:03:01] I like this person.
+[01:03:02 – 01:03:03] versus oh no way
+[01:03:03 – 01:03:05] Do you have any other questions? Both of you?
+[01:03:05 – 01:03:18] Yeah, hey Marcel, I guess maybe similarly on that, like if somebody's doing some action or behavior that sort of gets you angry or sort of frustrated, like how do you sort of deal with that? And it's not like
+[01:03:18 – 01:03:21] What's going on at work or what like can you
+[01:03:22 – 01:03:25] Yeah, I mean like I mean I guess to think about like work and
+[01:03:25 – 01:03:32] Like political dynamics and work. Again, it doesn't impact me, but like their behavior, you know, sort of.
+[01:03:32 – 01:03:33] Sets you off.
+[01:03:33 – 01:03:36] Or again, you know, even as like
+[01:03:36 – 01:03:39] personal like things that people do sort of bother you
+[01:03:39 – 01:03:45] Right, and like you get laughed because you know, I would laugh because you know you're not going to be there for long, and this is their whole life.
+[01:03:45 – 01:03:47] Are you gonna be a though? Like, I was just looking at him like.
+[01:03:48 – 01:03:52] Enjoy it. You're gonna be here the rest of your life and I'm gonna leave soon. So
+[01:03:52 – 01:03:55] You know, like I'll just sit there and whatever they do, just laugh.
+[01:03:55 – 01:04:06] You know, my coach used to think that he was punishing me. He'd make me do like a because I would do some shit. And he's like, don't do that. Even though it was the right move, right? Or the right thing. Like, don't do that. I told you, he just wanted to prove that I would listen to him.
+[01:04:07 – 01:04:11] But I was like, I'm going to listen to you at the cost of the game. Like, I'm going to fucking play the game, right?
+[01:04:11 – 01:04:13] Anyways, he'd make me run like a hundred suicides.
+[01:04:14 – 01:04:17] And I would laugh the whole time, even though it would hurt, even though it was cramping, even though I felt like throwing up.
+[01:04:17 – 01:04:23] I would do it. Everyone would have to watch me. Like, I would run 100 suicides and I'd be laughing the whole time. It would piss him off that I was laughing.
+[01:04:23 – 01:04:27] And I was laughing he's like, why are you laughing? I said, cause you're making me a better athlete.
+[01:04:27 – 01:04:31] you know i'm being better shape than everybody else here and i was i wasn't the best
+[01:04:31 – 01:04:33] Fucking shape.
+[01:04:33 – 01:04:34] Period.
+[01:04:34 – 01:04:35] Yeah.
+[01:04:36 – 01:04:37] Yeah.
+[01:04:44 – 01:04:47] Makes sense. Got it. Okay. Yeah.
+[01:04:48 – 01:04:53] Yeah, just know that you're going to have a result that's fuck this guy. They're going to, they're not important, not going to be in your future.
+[01:04:54 – 01:04:57] If you know they're not in your future in the long term, they won't bother you.
+[01:05:00 – 01:05:00] Sense?
+[01:05:01 – 01:05:04] Samely with a girl. The only time it hurts when you break up.
+[01:05:04 – 01:05:06] She's in your future still.
+[01:05:06 – 01:05:08] If you know she's not in your future and you accept that.
+[01:05:09 – 01:05:10] You're over here in ten minutes.
+[01:05:15 – 01:05:16] Cool, thank you.
+[01:05:16 – 01:05:17] No problem.
+[01:05:17 – 01:05:22] Any question you guys have, just shoot it to me. Text me, call me. I'm here for it.
+[01:05:23 – 01:05:29] Okay, hey, just one more thing on the call next week. Is that the 16th? Is that next Friday?
+[01:05:29 – 01:05:30] I'll tell you right now.
+[01:05:32 – 01:05:34] It it is D60.
+[01:05:35 – 01:05:36] Okay, all right.
+[01:05:36 – 01:05:37] Okay, first of all.
+[01:05:37 – 01:05:45] Interesting. I've got a deposition for another thing as well, but I can push it to Thursday. So I may do that on Thursday instead of Friday.
+[01:05:45 – 01:05:45] Mm-hmm.
+[01:05:46 – 01:05:47] Got it. Okay.
+[01:05:48 – 01:05:49] All right, thanks.
+[01:05:50 – 01:05:52] Awesome. I'll see you guys soon.
+[01:05:53 – 01:05:53] Okay.
+[01:05:54 – 01:05:54] Bye guys.
